@@ -1,0 +1,30 @@
+laser 01 655 nm
+lente en 26.5(1) cm magnificación 10
+divisor 06 en 34.0(1) cm
+primer espejo (recto) a 9.5(1) cm
+segundo espejo (perpendicular) a 9.4(1) cm con base en 12.00(1) mm
+detector azul a 600 lx en 22.0(1) cm
+
+medir
+con detector en 6000 lx, movimiento continuo
+detector a 6000 lx
+frecuencia muestreo 20000, 10 segundos
+data 1 20 micrones
+data 2 30 micrones
+data 3 25 micrones
+data 4 33 micrones
+data 5 20 micrones
+
+bien 600 lx
+data 1 30 micrones
+data 2 27 micrones
+data 3 30 micrones
+
+cámara a 45.0(1) cm de la pared
+pared en 150.0(1) cm
+data 1 0 micrones
+data 2 10 micrones
+data 3 20 micrones
+dara 4 30 micrones
+data 5 40 micrones
+data 6 50 micrones

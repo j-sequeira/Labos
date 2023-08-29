@@ -1,0 +1,8 @@
+random.seed
+series de a 30, chequear que no haya diferencias significativas (|sigma1-sigma2| < deltax1 + deltax2 = 0.02 s
+sino ir tomando de a 10 más superponiendo
+tabular x y sigma para cada serie
+histogramas de cada serie, elegir el más gaussiano
+aumentar de 30 a 50 simétricamente (10 más de cada lado), histograma manteniendo ancho de bin, de esta forma hacer 30,50,100,150,200,250,300
+hacer con los bin que da de entrada para esos números sin modificar
+sacar promedio y sigma de todo histograma

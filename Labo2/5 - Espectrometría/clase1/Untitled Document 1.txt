@@ -1,0 +1,17 @@
+setup posta
+led y cruz (uno al lado del otro) 5.6(1) cm
+lente 1 14.2(1) cm (foco 6 cm) lente 65, caja 75
+rendija 27.8(1) cm (ancho 0.15(1) cm)
+jugo inmediatamente al lado
+lente 2 38.1(1) cm (foco 10 cm) lente 74, caja 74
+red 79.5(1) cm
+distancia red pared 165.7(1) cm RDT 05 600 1/mmm
+
+calibración cámara
+polarizador 1 12.5(1) cm
+polarizador 2 27.8(1) cm
+distancia pol 2 pared 146.5(1) cm
+
+led 90
+camara 02
+objeto 01

@@ -1,0 +1,16 @@
+ruido
+
+polarización
+encontrar ángulos de máximo/mínima intensidad (mínimo no nulo)
+medir con polarizador en el maximo y sin polarizador
+medir con polarizador en el minimo
+sacar grado de polarización
+Ley de Malus
+
+estabilidad temporal
+comparar ruido 0 con ruido laser
+
+linealidad del detector
+viendo rango de malus
+
+divergencia

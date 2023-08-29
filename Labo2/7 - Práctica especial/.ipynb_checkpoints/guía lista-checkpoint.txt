@@ -1,0 +1,12 @@
+goniómetro blasi
+lámpara de sodio
+cámara 1
+lámpara de hidróǵeno
+lámpara de krypton
+
+rendija con ancho 1/600 mm
+
+rango lineal
+calcular analíticamente posición longitudes
+ver si podemos tener las fotos de 2
+sacar fotos y calibrar

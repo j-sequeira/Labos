@@ -1,0 +1,27 @@
+a medir:
+posiciones del experimento
+laser=0
+polarizador1:25.3 cm +- 0.1
+polarizador2:38 cm +- 0.1
+sensor:63 +- 0.1
+
+ruido:
+para 150000 ruido luz apagada 19 lux
+para 600 ruido luz apagada 0.27 lux 
+para 6000 ruido luz apagada 1.92 lux
+
+laser 03 
+
+para 150000 75grados=0
+para 6000 0 = 5
+
+
+minimo en 70i intensidad 284 std 0.7 escala 600
+maximo en 20d intensidad 29502 std 18 escala 150000
+sin polarizador 47875 std 16
+ 
+
+
+
+
+

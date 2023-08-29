@@ -1,0 +1,8 @@
+importar datos
+sacar maximos para obtener lambda
+  ajuste exponencial
+  ajuste lineal del logaritmo de la amplitud
+sacar máximos y evaluar frecuencia de oscilación
+  chequear que sea aproximadamente constante
+  sacar error estadístico
+  sacar nuevamente lambda tomando w0 (k) como dato
