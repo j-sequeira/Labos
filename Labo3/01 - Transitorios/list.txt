@@ -1,0 +1,40 @@
+siempre medir más que tau
+
+RC
+I(t), V_c(t)
+tau vs RC
+tau(R)
+t = tau
+V_estacionario
+tau(V) (no debería)
+
+RL
+Rs de 1k !!
+L tiene R_int
+I(t), V_L(t)
+tau vs L/R
+t = tau
+V_estacionario
+
+RLC subamortiguado/sobreamortiguado
+señal V_c
+estimar amplitud, y [sub] frecuencias (osc/am) [sobre] tau decaímiento
+ajustar
+
+RLC estacionario
+w = 2pi*f
+alterna
+pseudo pasabanda centrado en w0 = 1/sqrt(LC)
+ancho de banda dw = R/L
+factor de calidad Q = w0/dw
+ver todo esto gráfico teóricamente
+I(f)
+P_R(f) = |I|²R/2
+encontrar los valores esos a partir de los datos
+variar R? (Q)
+
+Filtros
+T = |V_out|/|V_in|
+phi = arctan(Im(V_out/V_in)/Re(V_out/V_in))
+atenuación A=20log_10(T) [dB] vs w/w0 y phi/phi0
+
