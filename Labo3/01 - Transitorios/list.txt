@@ -34,7 +34,8 @@ encontrar los valores esos a partir de los datos
 variar R? (Q)
 
 Filtros
+Pasabajos, pasaaltos, pasabanda, eliminabanda
 T = |V_out|/|V_in|
 phi = arctan(Im(V_out/V_in)/Re(V_out/V_in))
 atenuación A=20log_10(T) [dB] vs w/w0 y phi/phi0
-
+pasabajos integra pasaaltos deriva
