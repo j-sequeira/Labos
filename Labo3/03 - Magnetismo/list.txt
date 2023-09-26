@@ -1,0 +1,31 @@
+Campo Tierra
+Sonda Hall
+fuente de corriente con amperímetro, bobina y R
+medir voltaje con la sonda, B = a*V_H + b
+Bobina perpendicular al norte con el + del mismo lado que el campo (según la vuelta del bobinado y la dirección de la corriente)
+Campo para solenoide finito o infinito? ver validez de aproximación y usar acorde
+con lo obtenido calibrar
+alinear sonda con el campo de la Tierra
+Medir norte y sur
+Hay offset? (B_n-B_s)/2
+
+Gauss Meter
+con la función compass medir el norte lejos de imanes
+medir B_y y B_-y apuntando al norte
+offset
+
+brújula y bobina
+bobina perpendicular al campo terrestre
+Medir la corriente y el ángulo en el que se desvía la brújula (va en el medio de la bobina)
+tan(theta) = B_b/B_t
+
+comparar con campo tabulado
+
+
+Faraday
+Bobina e imán permanente
+cualitativo
+osciloscopio en disparo único
+acercar y alejar imán, medir campo bobina
+
+bobinas concéntricas
