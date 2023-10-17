@@ -1,0 +1,3 @@
+rectificador
+500 ohms
+4.97 microfaradios
