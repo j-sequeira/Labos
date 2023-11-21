@@ -8,3 +8,5 @@ Ay2 Matías Bachetti
 Natasha Grbec  
 Andrew McCallum  
 Joaquín Sequeira  
+
+Práctica especial: Corroboración del teorema de Steiner utilizando discos rodantes
