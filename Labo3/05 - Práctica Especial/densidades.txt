@@ -1,6 +1,6 @@
 densidades g/cm3
-niquel 8.2
-hierro palo 2.2
-bronce/laton 2.2
-aluminio 0.96
-cobre 2.14
+niquel 8.2 8.9
+hierro palo 2.2 7.874
+bronce/laton 2.2 8.7
+aluminio 0.96 2.7
+cobre 2.14 8.96
