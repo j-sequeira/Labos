@@ -4,6 +4,10 @@ JTP Verónica Raspa
 Ay1 Manuel Noseda  
 Ay1 Juliana Bourdieu  
 
-Luciano Carullo  
+Luciano Carullo Bedia  
 Tadeo Rodríguez  
 Joaquín Sequeira  
+
+P1: Ferromagnetismo  
+P2: Peltier  
+P3: Young Estático
