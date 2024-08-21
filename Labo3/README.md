@@ -5,7 +5,7 @@ Ay1 Adán Garrós
 Ay1 Joel Bobadilla  
 Ay2 Jean Paul Louys  
 
-Luciano Carullo  
+Luciano Carullo Bedia  
 Tadeo Rodríguez  
 Joaquín Sequeira  
 
