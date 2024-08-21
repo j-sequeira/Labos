@@ -8,4 +8,7 @@ Luciano Carullo Bedia
 Tadeo Rodríguez  
 Joaquín Sequeira  
 
-P1: Conteo de Fotones
+P1: Conteo de fotones
+P2: Pinzas ópticas
+P3: Láser
+P4: Efecto Fotoeléctrico
