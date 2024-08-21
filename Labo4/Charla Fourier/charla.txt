@@ -1,0 +1,9 @@
+Correlación
+Símil convolución, se comparan funciones conceptualmente similares. Se superponen con una corriéndose hacia un lado. Continuo y discreto, retraso t/j. Cálculo con fft usando conjugado y antitransformando
+
+Densidad espectral de frecuencia
+Muchas convenciones de normalización usando la amplitud cuadrada de la señal y la amplitud de la psd
+Puede estar definida para frecs discretas/continuas hasta f_c y +/-
+periodograma, transformada discreta para frecs positivas y negativas, definición extremos, normalizacion
+qué tan buen estimador? es igual al valor esperado? promedio con W, que no decae rápidamente y genera filtraciones. La varianza cuando N-> inf no varía (más puntos a misma frecuencia de sampleo aumenta resolución -> estimadores para más frecuencias, mayor frecuencia de sampleo -> misma resolución pero más puntos totales)
+se puede mejorar tomando una mayor resolución de frecuencias y luego sumando su psd y dejándosela al la frecuencia media, o segmentando y promediando el valor para cada frecuencia
